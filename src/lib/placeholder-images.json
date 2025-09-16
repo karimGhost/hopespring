@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A group of happy children playing outdoors.",
+      "imageUrl": "https://picsum.photos/seed/hopespring-hero/1920/1080",
+      "imageHint": "happy children"
+    },
+    {
+      "id": "cta-background",
+      "description": "A volunteer's hands holding another person's hands caringly.",
+      "imageUrl": "https://picsum.photos/seed/hopespring-cta/1200/800",
+      "imageHint": "volunteer helping"
+    }
+  ]
+}
